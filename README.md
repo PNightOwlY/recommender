@@ -8,6 +8,8 @@ Experience on learning recommendation system.
 
 [偏差与方差(bias and variance)](https://zhuanlan.zhihu.com/p/38853908)
 
+[白板推导笔记整理](https://www.yuque.com/books/share/f4031f65-70c1-4909-ba01-c47c31398466/hu0291)
+
 ## 推荐系统知识点整理
 [机器学习与推荐算法干货推荐](https://zhuanlan.zhihu.com/p/34004488) 
 
