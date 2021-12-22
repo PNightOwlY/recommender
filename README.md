@@ -5,9 +5,9 @@ Experience on learning recommendation system.
 [偏差与方差(bias and variance)](https://zhuanlan.zhihu.com/p/38853908)
 
 ## 推荐系统知识点整理
-[机器学习与推荐算法干货推荐](https://zhuanlan.zhihu.com/p/34004488)
-[论文整理](https://github.com/hongleizhang/RSPapers)
-[Master recommend systems](https://www.coursera.org/specializations/recommender-systems)
+[机器学习与推荐算法干货推荐](https://zhuanlan.zhihu.com/p/34004488) 
+[论文整理](https://github.com/hongleizhang/RSPapers) 
+[Master recommend systems](https://www.coursera.org/specializations/recommender-systems) 
 
 
 ## 相关书籍
