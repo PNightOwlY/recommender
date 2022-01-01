@@ -2,7 +2,7 @@
 Experience on learning recommendation system.
 ## 机器学习
 [PyTorch深度学习：60分钟入门(Translation)](https://zhuanlan.zhihu.com/p/25572330)
-
+[GBDT](https://www.zhihu.com/search?type=content&q=GBDT)
 
 ## 机器学习面试知识点整理
 [面试题 1](https://zhuanlan.zhihu.com/p/82105066) 
